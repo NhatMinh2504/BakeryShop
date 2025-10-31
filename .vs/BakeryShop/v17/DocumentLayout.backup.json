@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\PRn222\\BakeryShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\bakeryshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\bakeryshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\components\\topbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\components\\topbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\components\\sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\components\\sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\models\\bakeryoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\models\\bakeryoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\models\\bakery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\models\\bakery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\customerdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\customerdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\createbackeryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\createbackeryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\models\\kingbakerymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\models\\kingbakerymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|c:\\users\\dell\\prn222\\bakeryshop\\bakeryshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833E6FB2-F5FB-426B-87B8-2BE1EEBCBC60}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T11:25:33.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BakeryOption.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\BakeryOption.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Models\\BakeryOption.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\BakeryOption.cs",
+              "RelativeToolTip": "BakeryShop\\Models\\BakeryOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:22:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bakery.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\Bakery.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Models\\Bakery.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\Bakery.cs",
+              "RelativeToolTip": "BakeryShop\\Models\\Bakery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:21:55.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\TopBar\\Default.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\Components\\TopBar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\TopBar\\Default.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\Components\\TopBar\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T17:10:06.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Sidebar\\Default.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\Components\\Sidebar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Sidebar\\Default.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\Components\\Sidebar\\Default.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T17:10:00.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Home\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\ProductList.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Home\\ProductList.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAjwKwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T16:07:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T16:02:21.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\VnPaymentResponseModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\VnPaymentResponseModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:00:31.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\UserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\UserRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\UserRoleViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\UserRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:00:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:00:16.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:00:09.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ErrorViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:00:04.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\CustomerDetailViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\CustomerDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\CustomerDetailViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\CustomerDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:59:57.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBackeryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\CreateBackeryViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\CreateBackeryViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\CreateBackeryViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\CreateBackeryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:53:33.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BakeryShop.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\BakeryShop.csproj",
+              "RelativeDocumentMoniker": "BakeryShop\\BakeryShop.csproj",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\BakeryShop.csproj",
+              "RelativeToolTip": "BakeryShop\\BakeryShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T15:35:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ContactViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\ContactViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:36:06.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "BakeryShop\\ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:36:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Program.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Program.cs",
+              "RelativeToolTip": "BakeryShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:06:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BakeryShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAUwL8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:15:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:14:42.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T13:11:46.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:11:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:11:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KingBakeryManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\KingBakeryManagementContext.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Models\\KingBakeryManagementContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\KingBakeryManagementContext.cs",
+              "RelativeToolTip": "BakeryShop\\Models\\KingBakeryManagementContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:09:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:08:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "BakeryShop\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "BakeryShop\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:07:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BakeryShop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:01:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\PRn222\\BakeryShop\\BakeryShop\\Models\\User.cs",
+              "RelativeToolTip": "BakeryShop\\Models\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:00:36.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
