@@ -1,0 +1,125 @@
+﻿<!-- Sidebar -->
+<ul class="navbar-nav sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color:#B08EAD">
+
+    <!-- Sidebar - Brand -->
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" asp-action="Dashboard" asp-controller="Admin">
+        <div class="sidebar-brand-icon rotate-n-15">
+            <i class="fas fa-laugh-wink"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">Quản lý cửa hàng</div>
+    </a>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider my-0">
+
+    <!-- Nav Item - Dashboard -->
+    <li class="nav-item active">
+        <a class="nav-link" asp-action="Dashboard" asp-controller="Admin">
+            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <span>Tổng quan</span>
+        </a>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Heading -->
+    <div class="sidebar-heading">
+        Quản lý
+    </div>
+
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
+           aria-expanded="true" aria-controls="collapsePages">
+            <i class="fas fa-fw fa-folder"></i>
+            <span>Danh mục quản lý</span>
+        </a>
+        <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">Quản lý người dùng:</h6>
+                <a class="collapse-item" asp-action="Index" asp-controller="Users">Tổng quan người dùng</a>
+                <div class="collapse-divider"></div>
+                <h6 class="collapse-header">Quản lý sản phẩm:</h6>
+                <a class="collapse-item" asp-action="Manage" asp-controller="Bakeries">Tổng quan sản phẩm</a>
+                <div class="collapse-divider"></div>
+                <h6 class="collapse-header">Quản lý đơn hàng:</h6>
+                <a class="collapse-item" asp-action="Index" asp-controller="Orders">Tổng quan đơn hàng</a>
+                <div class="collapse-divider"></div>
+            </div>
+        </div>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Heading -->
+    <div class="sidebar-heading">
+        Tác vụ khác
+    </div>
+
+    <!-- Nav Item - Charts -->
+    <li class="nav-item">
+        <a class="nav-link" asp-action="FinManage" asp-controller="Admin">
+            <i class="fas fa-fw fa-chart-area"></i>
+            <span>Quản lý tài chính</span>
+        </a>
+    </li>
+
+    <!-- Nav Item - Tables -->
+    <li class="nav-item">
+        <a class="nav-link" asp-action="SalaryManage" asp-controller="Admin">
+            <i class="fas fa-fw fa-table"></i>
+            <span>Quản lý lương</span>
+        </a>
+    </li>
+
+    <!-- Nav Item - Tables -->
+    <li class="nav-item">
+        <a class="nav-link" asp-action="CustomerManage" asp-controller="Admin">
+            <i class="fas fa-fw fa-table"></i>
+            <span>Khách hàng thân thiết</span>
+        </a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" asp-action="Index" asp-controller="Vouchers">
+            <i class="fas fa-fw fa-table"></i>
+            <span>Quản lý vouchers</span>
+        </a>
+    </li>
+
+    @* <!-- Nav Item - Pages Collapse Menu -->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
+           aria-expanded="true" aria-controls="collapseTwo">
+            <i class="fas fa-fw fa-cog"></i>
+            <span>Cài đặt cửa hàng</span>
+        </a>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">Thông tin cửa hàng:</h6>
+                <a class="collapse-item" href="buttons.html">Cài đặt thông tin</a>
+                <a class="collapse-item" href="cards.html">Cài đặt địa chỉ</a>
+                <a class="collapse-item" href="cards.html">Cài đặt thanh toán</a>
+            </div>
+        </div>
+    </li> *@
+
+    <!-- Divider -->
+    <hr class="sidebar-divider d-none d-md-block">
+
+    <!-- Sidebar Toggler (Sidebar) -->
+    <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+    </div>
+
+    <!-- Sidebar Message -->
+    <li class="nav-item">
+        <a class="nav-link" asp-action="Index" asp-controller="Home">
+            <i class="fas fa-fw fa-home"></i>
+            <span>Quay lại trang chủ</span>
+        </a>
+    </li>
+
+</ul>
+<!-- End of Sidebar -->

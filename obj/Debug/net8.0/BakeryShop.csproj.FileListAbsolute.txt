@@ -134,10 +134,12 @@ C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.buil
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.csproj.Up2Date
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.dll
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\refint\BakeryShop.dll
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.pdb
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.genruntimeconfig.cache
 C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\ref\BakeryShop.dll
+C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.sourcelink.json
+C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\PRn222\BakeryShop\BakeryShop\obj\Debug\net8.0\BakeryShop.MvcApplicationPartsAssemblyInfo.cs
